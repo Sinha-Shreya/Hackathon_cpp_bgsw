@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 2.8.4 FATAL_ERROR)
+set(TARGET_NAME "rb_hackathon")
+
+project(${TARGET_NAME})
